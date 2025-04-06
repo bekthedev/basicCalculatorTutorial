@@ -1,1 +1,3 @@
 # basicCalculatorTutorial
+
+Purpose of program is to practice the enhanced switch...
